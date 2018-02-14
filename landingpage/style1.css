@@ -58,7 +58,13 @@ nav ul li a{
     color:white;
     width: 50px;
     padding:20px;
+    overflow: hidden;
+}
 
+nav ul li:hover{
+    background-color:rgb(14, 39, 121);
+    height: 50px !important;
+    
 }
 
 section#header{
