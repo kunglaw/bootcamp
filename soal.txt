@@ -27,7 +27,9 @@ ex:
 
 7. Pertanyaan BONUS:
 
-Anda ditunjuk sebagai CEO di suatu perusahaan yg based productnya adalah sabun batang. Mereka mempunyai kendala dengan mesin produksinya, yang mana mesinnya sometime tidak mengisikan sabun ke kardus, sehingga mengakibatkan ada beberapa kotak sabun yang kosong (BUG). Bagaimanakah cara Anda sebagai CEO untuk mengatasi problem tersebut?
+Anda ditunjuk sebagai CEO di suatu perusahaan yg based productnya adalah sabun batang. 
+Mereka mempunyai kendala dengan mesin produksinya, yang mana mesinnya sometime tidak mengisikan sabun ke kardus, sehingga mengakibatkan ada beberapa kotak sabun yang kosong (BUG). 
+Bagaimanakah cara Anda sebagai CEO untuk mengatasi problem tersebut?
 
 a. Menambah SDM untuk melakukan pengecekan
 b. Membuat AI (robot/mesin) untuk melakukan pengecekan
