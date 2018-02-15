@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\DB;
 
 class Post extends Model
 {
-    //
+    //Menampilkan list post dengan urutan desc berdasarkan post_id 
     static function list_post()
     {
         return DB::select("SELECT * FROM post_tbl ORDER BY post_id DESC");
