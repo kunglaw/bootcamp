@@ -60,6 +60,7 @@
                         <div class="alamat">
                           <p> Alamat : </p>
                           <p> Jl. Muhammad Kup , Gg. Sadeli , RT 005/003 , Kel. Pinang, Kec. Pinang, Tangerang , Banten </p>
+                          <div id="map"></div>
                         </div>
                       </div>
                   </div>
@@ -70,6 +71,23 @@
                     <p align="center"> Yudhistira.id Copyright &copy; 2018 </p>
                 </div>
             </footer>
+            <script>
+                function initMap() {
+                  var uluru = {lat: -6.218757, lng: 106.688557};
+                  var map = new google.maps.Map(document.getElementById('map'), {
+                    zoom: 15,
+                    center: uluru
+                  });
+                  var marker = new google.maps.Marker({
+                    position: uluru,
+                    map: map
+                  });
+                }
+              </script>
+              <script async defer
+              src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCEwFTUmfgllf8x3BMzq-9OJ9_gdyEFVxY&callback=initMap">
+            </script>
+          
         </div>
     </body>
 

@@ -98,7 +98,7 @@ section#header .container center h1{
 
 section#content1{
     padding: 50px 0 50px 0;
-    height: 300px;
+  
     
   
 }
@@ -107,6 +107,12 @@ section#content1 #biodata .row div{
     float:left;
     width:33%;
 }
+
+#map {
+    height: 400px;
+    width: 100%;
+   }
+
 
 footer{
     height:50px;
