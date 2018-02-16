@@ -1,0 +1,5 @@
+jawaban soal no.7
+
+- menugaskan teknisi mesin untuk melakukan pengecekan mesin ( pengecekan bug ) 
+- jikalau tidak ada yg sanggup mengecek mesin , maka menambah SDM teknisi mesin yang sanggup mengecek mesin 
+- setelah ditemukan masalahnya , perbaiki mesin ( fixing bug ) 
