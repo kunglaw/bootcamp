@@ -1,5 +1,5 @@
 # bootcamp
-<h1 > jawaban dari soal test masuk bootcamp <h1> 
+<h1 > jawaban dari soal test masuk bootcamp </h1> 
 
 <p> Project Bootcamp ini terdiri dari 3 bagian </p>
 
