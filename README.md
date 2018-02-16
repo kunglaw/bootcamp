@@ -8,7 +8,7 @@
     Location: <a href="https://github.com/kunglaw/bootcamp/tree/master/Biodata"> Biodata </a>
     Jawaban soal no. 1
   </li> 
-  <li>
+  
   
   <li>2. Landing Page 
     Location : <a href="https://github.com/kunglaw/bootcamp/tree/master/landingpage"> Landing Page </a> 
