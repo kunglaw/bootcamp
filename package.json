@@ -4,6 +4,7 @@
   "description": "<h5 > jawaban dari soal test masuk bootcamp </h5>",
   "main": "index.js",
   "dependencies": {
+    "@stackblitz/sdk": "^1.1.1",
     "pkg.json": "^2.0.6"
   },
   "devDependencies": {},
