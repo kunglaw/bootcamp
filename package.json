@@ -1,0 +1,23 @@
+{
+  "name": "bootcamp",
+  "version": "1.0.0",
+  "description": "<h5 > jawaban dari soal test masuk bootcamp </h5>",
+  "main": "index.js",
+  "dependencies": {
+    "pkg.json": "^2.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunglaw/bootcamp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kunglaw/bootcamp/issues"
+  },
+  "homepage": "https://github.com/kunglaw/bootcamp#readme"
+}
