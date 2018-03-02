@@ -1,0 +1,13 @@
+{
+    "name": "asus/bootcamp",
+    "description": "my first bootcamp test project",
+    "type": "no",
+    "license": "no",
+    "authors": [
+        {
+            "name": "Aries Dimas Yudhistira",
+            "email": "alhusna901@gmail.com"
+        }
+    ],
+    "require": {}
+}
