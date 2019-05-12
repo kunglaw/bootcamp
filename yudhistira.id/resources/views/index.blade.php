@@ -5,7 +5,7 @@
         <style>
             #header{
                 height:400px;
-                background-image:url("<?=asset('resources/assets/img/background-img.jpg')?>");
+                background-image:url("http://localhost:8000/img/background-img.jpg");
                 background-size:cover;
             }
 
